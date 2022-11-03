@@ -29,3 +29,5 @@
                                                                   Contect
                                                                IG : Fluk.Pro
                                                       https://www.instagram.com/fluk.pro/
+                                                                  About me
+                                                I'm currently learning from Rangsit University
