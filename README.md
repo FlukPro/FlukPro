@@ -1,16 +1,15 @@
-## Hi there 👋
+## 💫 About Me
 
-<!--
-**FlukPro/FlukPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm FlukPro!  
+A beginner programmer passionate about coding and building cool projects.  
+Currently working on self-projects and content creation.  
 
-Here are some ideas to get you started:
+I'm actively learning and working with:
+- C, C#
+- Python
+- HTML, CSS, JavaScript
+- React, Vite, Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out all my projects on [GitHub](https://github.com/FlukPro) 🚀
+
+📧 Work Contact: superfluk2005@gmail.com
